@@ -1,0 +1,37 @@
+# Country Website 🌍
+
+This is a simple country information website built using **React.js**.  
+It shows details of different countries using data from a public API.
+
+The project is made for learning React concepts like components, routing, API calls, and state management.
+
+🔗 Live Website:  
+https://YOUR-NETLIFY-LINK.netlify.app
+
+---
+
+## Features
+
+- List of all countries
+- Search country by name
+- Filter countries by region
+- View country details on a separate page
+- Responsive design
+
+---
+
+## Technologies Used
+
+- React.js
+- React Router
+- Axios
+- CSS
+- Vite
+
+---
+
+## How to Run Locally
+
+```bash
+npm install
+npm run dev
