@@ -1,8 +1,28 @@
-# React + Vite
+# Country Website 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple country information website built using React.js.
+It shows details of different countries using data from a public REST API.
 
-Currently, two official plugins are available:
+This project was created to practice React concepts like components,
+routing, API calls, and state management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- View list of countries
+- Search country by name
+- Filter countries by region
+- View country details on separate page
+- Responsive UI
+
+## Technologies Used
+- React.js
+- React Router
+- Axios
+- CSS
+- Vite
+
+## Live Demo
+(Deployed on Netlify)
+
+## Author
+Shubham Gaikwad  
+GitHub: https://github.com/shubhamgaikwad94
